@@ -34,7 +34,7 @@ HTML5, CSS3 + Bootstrap 5, Font Awesome, Google Fonts, JavaScript (Bootstrap Bun
 ## ⚙️ How to Use / Setup
 
 1. **Clone the repository**  
-   git clone https://github.com/yourusername/gqt-travel-website.git
+   git clone https://github.com/karthikdevini/GQTTours-Travels.git
    cd gqt-travel-website
 Open in your browser
 Simply open index.html in any web browser:
