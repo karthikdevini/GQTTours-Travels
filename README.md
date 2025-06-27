@@ -69,6 +69,6 @@ Unsplash for free images
 Font Awesome
 
 💡 Author
-Developed by Karthik Devini
-📧 Contact: kkmdevini@gmail.com
-🌐 Portfolio: https://karthik-devini-portfolio.netlify.app/
+- Developed by Karthik Devini
+- 📧 Contact: kkmdevini@gmail.com
+- 🌐 Portfolio: https://karthik-devini-portfolio.netlify.app/
